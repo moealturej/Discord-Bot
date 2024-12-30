@@ -22,4 +22,4 @@ client.on('messageCreate', message => {
 });
 
 // Log in with your Discord bot token
-client.login('MTI3MTc1MjgzNDg2OTYyNDg4Mg.GbQ0EZ.F_wEL9v3A9thePxE6mEaMT-yKDWEu72GtqBdWU');
+client.login('TOKEN');
